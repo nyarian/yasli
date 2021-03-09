@@ -1,0 +1,11 @@
+name: yasli
+description: Yet another service locator implementation
+version: 0.0.1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: any
